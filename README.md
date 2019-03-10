@@ -13,7 +13,7 @@ Collection<Player> players = BukkitInterface.getOnlinePlayers(); // always works
 Maven Repository:
 ---
 
-[http://rainbowcraft.sytes.net/maven/repository/] (http://rainbowcraft.sytes.net/maven/repository/ "Maven Repository")
+[http://rainbowcraft.sytes.net/maven/repository/](http://rainbowcraft.sytes.net/maven/repository/ "Maven Repository") (Maven Repository)
 
 If you use maven, put these declarations in your pom.xml:
 
@@ -61,7 +61,7 @@ Check to make sure this repository is still active. If not, you will have to ins
 <dependency>
     <groupId>mc.euro</groupId>
     <artifactId>BukkitInterface</artifactId>
-    <version>2.0.1</version>
+    <version>4.0.1</version>
     <scope>compile</scope>
 </dependency>
 ```
@@ -106,14 +106,14 @@ Dependencies:
 ---
 
 - **Bukkit API**
-  * https://github.com/Bukkit/Bukkit
-  * http://dl.bukkit.org/downloads/bukkit/
+  * https://hub.spigotmc.org/stash/projects/SPIGOT/repos/bukkit/browse
+  * https://repo.md-5.net/content/repositories/public/
+  * https://hub.spigotmc.org/nexus/content/repositories/public/
   * 1.7.9 & 1.7.10 are required for compilation
+
 
 
 Contact:
 ---
-
-Nick at Nikolai.Kalashnikov@hotmail.com
-
-Nicodemis79 on Skype
+Live Chat on Discord:
+* [BattlePlugins Dev](https://discord.gg/tMVPVJf): Join our Discord server to get support, talk about dev stuff, or just say hi!
